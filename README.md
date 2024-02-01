@@ -37,10 +37,14 @@ In the data preparation phase, i performed the following tasks;
 ### Exploratory Data Analysis
 Insights from EDA include;
 
- -The Prices per room over time graph shows that the people who cancelled thier booking where does who had the highest prices for rooms..
+ -The Prices per room over time graph shows that the people who cancelled thier booking where does who had the highest prices for rooms.
+ 
  -The lead time by prices graph shows that people who had shorter Number of days before the arrival date the booking was made were more likely to not to cancel their booking.
- -The count of various Reserved Room Types shows that Room Type1 is the most Reserved room for both persons who canceled and those who did not cancel thier bookings
+ 
+ -The count of various Reserved Room Types shows that Room Type1 is the most Reserved room for both persons who canceled and those who did not cancel thier bookings.
+ 
  -The weekday by booking status graph shows majority of cancelled booking were on sunday, however sunday had majority of bookings.
+ 
  -The heat map shows that number of special request and booking statuses have moderate relationship, while the number of previous booking not canceled has a weak relationship with booking status. We can also see that Lead time have a negative moderate relationship with booking status.
  
 ### Supervised Machine Learning
